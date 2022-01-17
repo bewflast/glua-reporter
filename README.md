@@ -13,3 +13,5 @@ errors_route = 'pivnayakega'
 | |
 | |
 lua_error_url "http://localhost:1337/pivnayakega"
+
+![alt text](https://i.imgur.com/5JpwYpM.jpeg)
